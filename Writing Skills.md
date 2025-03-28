@@ -4,7 +4,7 @@
 单词同义替换：graph/chart/figure, show/illustrate/demonstrate, proportion/percentage/rate, number/quantity, amount/quantity, between...and.../from...to.../for the years...through..., total/overall/collectively
 #### 饼图（The pie chart）
 饼图的满占比为100%，但例如IELTS 8 Test1 Writing Task1的饼图可以得知，满占比100%并不意味着全球、全国的占比，可能是题干提供的地区的占比。开头段可以将饼图大概的描述一遍（将题干换一种方式，再详细一点描述一遍）。技巧：若要描述第二，可以用followed by **第一**。
-## 地图类
+## 地图对比类
 如果描述未来，则使用预测（Predict），若是过去与未来比较，则可以用*跨越了N年*，*在N年-N年之间*。
 介词：
 **In**在...里 **At**挨着 **To**不挨着 **Across**跨过 **Along**沿着
