@@ -1,4 +1,4 @@
-# 小作文
+# **小作文**
 ## 统计图类
 ### 开头段写法
 单词同义替换：graph/chart/figure, show/illustrate/demonstrate, proportion/percentage/rate, number/quantity, amount/quantity, between...and.../from...to.../for the years...through..., total/overall/collectively
@@ -12,6 +12,6 @@
 若有**河流、道路等**将地图分割，则可以说"**It is obvious that this place had changed a lot. To be more specific, the road/river/path had divided the map/park/classroom into N sections**"，接下来描述**未变化**的地方，然后再描述**被移除、消失、被替代**的地方，然后换第二段。
 描述**全被替换掉**的地方。
 结尾段："**Overall, it is obvious that this village become much more crowded and modenized than before, with more living places and infrastructure but with smaller spare space and green area.**"
-# 大作文
+# **大作文**
 ## 立场类
-**五段式**可以应用于立场类（你同意前者还是后者），**第一段**中可以先用自己的话描述一遍题目，然后说明自己的立场。然后**第二段**说明你所在立场的优点，但是要记住不要一次性都在**第二段**说完，保留一部分在**第三段**接着说明其优点。**第四段**写对立面的优点，但是不要*反驳*前两段的优点，否则会得到低分。**第五段**则再简短描述一下题目与确认自己立场与其优点即可。（描述优点、缺点都尽量举例子！1个例子即可！）
+立场类可以应用**五段式**写作结构（你同意前者还是后者），**第一段**中可以先用自己的话描述一遍题目，然后说明自己的立场。然后**第二段**说明你所在立场的优点，但是要记住不要一次性都在**第二段**说完，保留一部分在**第三段**接着说明其优点。**第四段**写对立面的优点，但是不要*反驳*前两段的优点，否则会得到低分。**第五段**则再简短描述一下题目与确认自己立场与其优点即可。（描述优点、缺点都尽量举例子！1个例子即可！）
